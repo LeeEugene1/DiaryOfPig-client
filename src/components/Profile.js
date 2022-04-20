@@ -14,8 +14,7 @@ const Profile = () => {
         />
         <Card.Header>Esau Silva</Card.Header>
         <Card.Description>
-          Full Stack Software Engineer and avid Brazilian Jiu-Jitsu
-          practitioner.
+          Full Stack Software Engineer
         </Card.Description>
       </Card.Content>
       <Card.Content extra>
